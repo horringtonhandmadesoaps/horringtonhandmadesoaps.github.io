@@ -13,7 +13,7 @@ You can find our beautiful soaps in the [Wells Cathedral Gift Shop](https://www.
 We believe we can clean our hands, dishes, hearts and socks while also keeping the world clean. Bubbling with joy,
 
  
-– *Tara & Oli*
+– *Joe & Nancy*
 
 ## PS. 
 We also have a more detailed [ingredients list]({{< ref "ingredients.md" >}}), all natural and hypoallergenic! If you'd like to try soapmaking yourself, we sometimes [run workshops]({{< ref timetable.md >}}).

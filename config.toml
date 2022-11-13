@@ -20,7 +20,7 @@ copyright = "&copy;2021 Horrington Handmade Soaps"
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Olli & Co."
+  author = "Joe & Nancy"
   description = "Horrington Handmade Soaps is an artisan soap brand, lovingly crafting soap from vintage recipes in the historic city of Wells."
   shareImage = "images/social.jpg"
   twitterHandle = "horringtonhandmadesoaps"
@@ -57,8 +57,8 @@ copyright = "&copy;2021 Horrington Handmade Soaps"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
-        text = "Email: horringtonhandmadesoaps@gmail.com"
-        url = "mailto:horringtonhandmadesoaps@gmail.com"
+        text = "Email: horringtonhandmadesoaps@soap.com"
+        url = "mailto:horringtonhandmadesoaps@soap.com"
         new_tab = true # Default, open at same tab
 
       [[params.links.list1.link]]
@@ -83,15 +83,15 @@ copyright = "&copy;2021 Horrington Handmade Soaps"
 
       [[params.links.list3.link]]
         text = "Twitter"
-        url = "#"
+        url = "https://twitter.com/HorringtonHandmadeSoaps"
 
       [[params.links.list3.link]]
         text = "Instagram"
-        url = "#"
+        url = "https://www.instagram.com/horringtonhandmadesoaps/"
 
       [[params.links.list3.link]]
         text = "Etsy"
-        url = "#"
+        url = "https://www.etsy.com/uk/shop/HorringtonHandmadeSoaps/"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
