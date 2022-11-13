@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="Horrington Handmade Soaps.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.72515432"
+     inkscape:cx="377.85061"
+     inkscape:cy="561.94935"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="soap"
+       style="fill:#f061db;stroke-width:8;fill-opacity:1;stroke-dasharray:none;stroke:#ffbdf7;stroke-opacity:1;stroke-linejoin:round"
+       d="M 63.810575 92.67548 A 27.729727 27.729727 0 0 1 36.121826 119.31055 A 27.729727 27.729727 0 0 1 33.56746 119.17877 L 33.56746 156.89172 L 141.20275 156.89172 L 141.20275 92.67548 L 63.810575 92.67548 z " />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:47.7943px;font-family:'Cervo Neue';-inkscape-font-specification:'Cervo Neue Semi-Bold';text-align:center;text-anchor:middle;fill:#752345;fill-opacity:1;stroke:#ffbdf7;stroke-width:0;stroke-dasharray:none;stroke-opacity:1;image-rendering:auto;stroke-miterlimit:8"
+       x="89.564522"
+       y="140.00386"
+       id="text3081"
+       inkscape:label="text soap"><tspan
+         sodipodi:role="line"
+         id="tspan3079"
+         style="fill:#752345;fill-opacity:1;stroke:#ffbdf7;stroke-width:0;stroke-dasharray:none;stroke-opacity:1;stroke-miterlimit:8"
+         x="89.564522"
+         y="140.00386">hoap</tspan></text>
+  </g>
+</svg>
