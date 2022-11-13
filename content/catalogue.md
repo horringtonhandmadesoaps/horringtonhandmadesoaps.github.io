@@ -1,5 +1,11 @@
 +++
-title = "purus sem"
+title = "A Catalogue of"
+tagline = "Our Soaps"
 +++
 
-Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.
+Here is a short list of some of the different soaps we make!
+
+## Honey & Vanilla
+A smooth, silky scent, very gentle on the hands.
+{{< figure src="images/resources/honey&vanilla.jpg" >}}
+
