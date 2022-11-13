@@ -15,15 +15,15 @@ uglyURLs = true
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2021 Your Name"
+copyright = "&copy;2021 Horrington Handmade Soaps"
 
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Jenny Jones"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+  author = "Olli & Co."
+  description = "Horrington Handmade Soaps is an artisan soap brand, lovingly crafting soap from vintage recipes in the historic city of Wells."
   shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
+  twitterHandle = "horringtonhandmadesoaps"
 
   # Favicon
   favicon = "favicon.ico"
@@ -34,7 +34,7 @@ copyright = "&copy;2021 Your Name"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/background.jpg"
+      file = "images/resources/BeanandBoy-Lavender-Soap.jpg"
       position = "center center"
 
     # Video
@@ -49,7 +49,7 @@ copyright = "&copy;2021 Your Name"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Connect"
+      heading = "Contact Us"
 
       [[params.links.list1.link]]
         text = "Blog"
@@ -57,46 +57,40 @@ copyright = "&copy;2021 Your Name"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
-        text = "Email"
-        url = "#"
-        new_tab = false # Default, open at same tab
+        text = "Email: horringtonhandmadesoaps@gmail.com"
+        url = "mailto:horringtonhandmadesoaps@gmail.com"
+        new_tab = true # Default, open at same tab
 
       [[params.links.list1.link]]
         text = "Newsletter"
         url = "#"
 
   # Links List #2
+  # Blank to leave space in the middle for email overrun
   [[params.links]]
     [params.links.list2]
-      heading = "Social"
+      heading = ""
 
       [[params.links.list2.link]]
-        text = "Twitter"
+        text = ""
         url = "#"
 
-      [[params.links.list2.link]]
-        text = "Instagram"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
 
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Network"
+      heading = "Socials"
 
       [[params.links.list3.link]]
-        text = "Link One"
+        text = "Twitter"
         url = "#"
 
       [[params.links.list3.link]]
-        text = "Link Two"
+        text = "Instagram"
         url = "#"
 
       [[params.links.list3.link]]
-        text = "Link Three"
+        text = "Etsy"
         url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
