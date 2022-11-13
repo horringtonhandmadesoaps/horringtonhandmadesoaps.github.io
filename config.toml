@@ -1,0 +1,7 @@
+baseURL = 'https://horringtonhandmadesoaps.github.io'
+languageCode = 'en-gb'
+title = 'Horrington Handmade Soaps'
+theme = 'blank'
+
+# recommended for GitHub pages
+publishDir = 'docs'
